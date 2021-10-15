@@ -131,13 +131,13 @@ namespace dioseries
 
         private static string MenuOpcoes(){
             Console.WriteLine();
-            Console.WriteLine("PobreFlix - Os filmes que os pobres gostam...");
+            Console.WriteLine("PobreFlix - Os séries que os pobres gostam...");
             Console.WriteLine("Informe a opção desejada:");
-            Console.WriteLine("1 - Listar filmes");
-            Console.WriteLine("2 - Inserir filme");
-            Console.WriteLine("3 - Atualizar info do filme");
-            Console.WriteLine("4 - Remover filme");
-            Console.WriteLine("5 - Consultar filme");
+            Console.WriteLine("1 - Listar séries");
+            Console.WriteLine("2 - Inserir séries");
+            Console.WriteLine("3 - Atualizar info do séries");
+            Console.WriteLine("4 - Remover séries");
+            Console.WriteLine("5 - Consultar séries");
             Console.WriteLine("C - Limpar tela");
             Console.WriteLine("X - Sair");
             Console.WriteLine();
