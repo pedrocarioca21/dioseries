@@ -1,0 +1,16 @@
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.exe
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.deps.json
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.runtimeconfig.json
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.runtimeconfig.dev.json
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.dll
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\ref\dioseries.dll
+C:\Users\pedror\Documents\workspace\dioseries\bin\Debug\net5.0\dioseries.pdb
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.csproj.AssemblyReference.cache
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.AssemblyInfoInputs.cache
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.AssemblyInfo.cs
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.csproj.CoreCompileInputs.cache
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.dll
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\ref\dioseries.dll
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.pdb
+C:\Users\pedror\Documents\workspace\dioseries\obj\Debug\net5.0\dioseries.genruntimeconfig.cache
